@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Ammar, a junior developper in Rennes a small city in France. 
+- I'm currently in a work-school program
+- I work at CGI
+- I study master's degree in Software Engeneering at the University of Rennes 1
+
 [![Ammar's github stats](https://github-readme-stats.vercel.app/api?username=Ammar96399&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
