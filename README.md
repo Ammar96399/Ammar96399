@@ -1,7 +1,5 @@
 # Hi there, I'm Ammar! 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar96399&count_private=true&show_icons=true&theme=radical&hide_rank=false"/>
-
 ## About Me
 
 I am Ammar, a software engineering student at the University of Rennes. Currently, I'm in my second year of the master's program. I'm very passionate about all things related to software development, but I find myself particularly drawn to deployment and backend development. I enjoy solving complex problems and building efficient and scalable solutions.
@@ -14,17 +12,17 @@ I am Ammar, a software engineering student at the University of Rennes. Currentl
 
 ## GitHub Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Ammar96399&count_private=true&show_icons=true&theme=radical&hide_rank=false"/>
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Ammar96399&show_icons=true&hide=contribs,prs&theme=radical)
 
 ## Find Me Online
 
-- [LinkedIn]([https://www.linkedin.com/in/ammar-profile/](https://www.linkedin.com/in/ammar-kazem-5357991a1/))
+- [LinkedIn](https://www.linkedin.com/in/ammar-kazem-5357991a1)
 - [Personal Website](https://www.ammar.leskazems.fr)
 
 ## Contact Me
 
 - Email: kazem.ammar49@gmail.com
-<br/>
+
 
 
      
