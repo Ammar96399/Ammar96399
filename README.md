@@ -36,7 +36,7 @@ Here are some of the technologies and tools I’m familiar with:
 ## 🤝 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/ammar-kazem-5357991a1)
-- [Portfolio](https://www.ammar.leskazems.fr)
+- [Portfolio](https://www.ammar.kazem.fr)
 
 <!--## 👀 Check Out My Projects
 
