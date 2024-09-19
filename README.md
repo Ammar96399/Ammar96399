@@ -23,7 +23,8 @@ Here are some of the technologies and tools I’m familiar with:
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ammar96399&show_icons=true&hide=contribs,prs&theme=radical)
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=Ammar96399)
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=Ammar96399&theme=radical)
 
 ## 🌟 Highlights
 
