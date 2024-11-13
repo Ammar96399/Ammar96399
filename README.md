@@ -16,7 +16,7 @@ I'm a PhD student in computer science at the University of Rennes, IRISA. I work
 
 Here are some of the technologies and tools I’m familiar with:
 
-- Languages: Golang, Python, Bash, Typescript, Java
+- Languages: Rust, Golang, Python, Bash, Typescript, Java
 - Frameworks & Libraries: Svelte, Node.js, React, SolidJS
 - Deployement: Docker, Kubernetes, Podman
 
